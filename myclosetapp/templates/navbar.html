@@ -1,0 +1,35 @@
+{% block content %}
+  <div class="row">
+    <div class="col-md-12">
+      <h2 style="text-align: center;" class="main-header"> Welcome to MyCloset!! </h2>
+    </div>
+  </div>
+      <div class="row">
+        <div class="col-md-12">
+          
+        <div class="col-sm-2">
+          <br>
+          {% block sidebar %}
+          <nav role="navigation" class="navbar navbar-default">
+            <div class="navbar-header">
+              <ul class="sidebar-nav nav">
+                  <li><a href="{% url 'myclosetapp:index' %}">Home</a></li> 
+              </ul>
+          {% endblock %}
+            </div>
+          </nav>
+        </div>
+
+
+        <div class="col-sm-8 page-header">
+          {% if user.is_authenticated %}
+            <h3 style="text-align: center;"> Good to see you again, {{user.username}}!!</h3>
+            <a href="{% url 'myclosetapp:logout' %}">Logout</a>
+          {% else %}
+            <div class="register-link" style="text-align: center;"><a href="{% url 'myclosetapp:register' %}"><b>Join MyCloset, Start adding items to your closet!</b></a></div>
+            <div style="text-align: center;"><a href="{% url 'myclosetapp:login' %}">Login to view your closet!!!</a></div>
+          {% endif %}
+        </div>
+    </div>
+  </div>
+{% endblock %}

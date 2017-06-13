@@ -1,0 +1,316 @@
+[
+   {
+     "model": "myclosetapp.Item",
+     "pk": 1,
+     "fields": {
+       "category": 1,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 2,
+     "fields": {
+       "category": 2,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 3,
+     "fields": {
+       "category": 3,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 4,
+     "fields": {
+       "category": 4,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 5,
+     "fields": {
+       "category": 5,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 6,
+     "fields": {
+       "category": 1,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 7,
+     "fields": {
+       "category": 2,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 8,
+     "fields": {
+       "category": 3,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 9,
+     "fields": {
+       "category": 4,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 10,
+     "fields": {
+       "category": 5,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+  {
+     "model": "myclosetapp.Item",
+     "pk": 11,
+     "fields": {
+       "item_category": 6,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 12,
+     "fields": {
+       "item_category": 2,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 13,
+     "fields": {
+       "user": 1,
+       "item_category": 3,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 14,
+     "fields": {
+       "user": 1,
+       "item_category": 4,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 15,
+     "fields": {
+       "user": 1,
+       "item_category": 5,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+  {
+     "model": "myclosetapp.Item",
+     "pk": 16,
+     "fields": {
+       "user": 1,
+       "item_category": 1,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 17,
+     "fields": {
+       "user": 1,
+       "item_category": 2,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 18,
+     "fields": {
+       "user": 1,
+       "item_category": 3,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 19,
+     "fields": {
+       "user": 1,
+       "item_category": 4,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 20,
+     "fields": {
+       "user": 1,
+       "item_category": 5,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+  {
+     "model": "myclosetapp.Item",
+     "pk": 21,
+     "fields": {
+       "user": 1,
+       "item_category": 1,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 22,
+     "fields": {
+       "user": 1,
+       "item_category": 2,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 23,
+     "fields": {
+       "user": 1,
+       "item_category": 3,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 24,
+     "fields": {
+       "user": 1,
+       "item_category": 4,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   },
+   {
+     "model": "myclosetapp.Item",
+     "pk": 25,
+     "fields": {
+       "user": 1,
+       "item_category": 5,
+       "description": "Super cool computer",
+       "title": "computer",
+       "brand": "Nashville",
+       "price": 25.00,
+       "color": "green"
+     }
+   }
+]
+

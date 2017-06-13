@@ -1,0 +1,14 @@
+  {% extends 'index.html' %}
+  {% block content %}
+  {% load staticfiles %}
+
+    {% include "navbar.html" %}
+
+    <h1>view_account template view</h1>
+
+  
+    <ul>
+          
+          <li><a href="{% url 'myclosetapp:my_categories' %}">Categories</a></li>
+    </ul>
+{% endblock %}
